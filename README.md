@@ -14,7 +14,7 @@ Weather Station made with Raspberry Pi for indoor and outdoor tempereature measu
 - 4 pull-down buttons for menu navigation (with wiringPi)
 - Visualization of temeparature-time diagrams (with MIT) on monitor via HDMI to the Raspberry
 
-**Fritzing sketch of the Hardware**
+## Fritzing sketch of all hardware
 ![fritzing](https://github.com/notpavlov/Weather-Station/blob/main/fritzing.png?raw=true)
 
 ## Installation
