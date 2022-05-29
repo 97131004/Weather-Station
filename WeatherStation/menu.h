@@ -5,7 +5,7 @@ enum class displayMode;
 /*!
  * \brief Class that handles the contents of the menu.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class menu {
 public:

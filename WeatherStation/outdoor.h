@@ -4,7 +4,7 @@
 /*!
  * \brief Class that continuously retrieves and parses weather data from the OpenWeatherMap-API, fills the \link OUTDOOR_VEC \endlink with a new \link outdoorEntry \endlink and appends it to a .csv file.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class outdoor {
 private:

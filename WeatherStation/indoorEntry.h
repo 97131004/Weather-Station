@@ -7,7 +7,7 @@
 /*!
  * \brief Class that includes all indoor data (date and time, temperature, humidity) and string representations of those.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class indoorEntry {
 public:

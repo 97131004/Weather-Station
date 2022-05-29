@@ -21,7 +21,7 @@ extern int OUTDOOR_VEC_INCR_MAX();
 /*!
  * \brief Storage class of all container types: \link TIMEZONES_VEC \endlink, \link INDOOR_VEC \endlink, \link OUTDOOR_VEC \endlink. Also handles the I/O of all containers.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class containers {
 private:

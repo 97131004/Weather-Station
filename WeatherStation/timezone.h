@@ -4,7 +4,7 @@
 /*!
  * \brief Class that retrieves and sets the system's timezone.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class timezone {
 public:

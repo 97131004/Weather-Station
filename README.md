@@ -2,9 +2,9 @@
 
 Weather Station made with Raspberry Pi for indoor and outdoor tempereature measurements. Outdoor temperature is measured via the Internet using a Open Weather Map API. Indoor temperature is measured using a DHT22 sensor. An additional LCD display visualizes the date, time and other weather data for a certain location using an Internet connection. The tool visualizes all measurements in multiple temperature-time diagrams on a monitor connected to the Raspberry. The tool also logs all measurements into a .csv file on the Raspberry.
 
-![rasp1](https://github.com/notpavlov/Weather-Station/blob/main/rasp1.jpg?raw=true)
+![rasp1](https://github.com/97131004/Weather-Station/blob/main/rasp1.jpg?raw=true)
 
-![rasp2](https://github.com/notpavlov/Weather-Station/blob/main/rasp2.jpg?raw=true)
+![rasp2](https://github.com/97131004/Weather-Station/blob/main/rasp2.jpg?raw=true)
 
 ## Specifications and structure
 
@@ -15,7 +15,7 @@ Weather Station made with Raspberry Pi for indoor and outdoor tempereature measu
 - Visualization of temeparature-time diagrams (with MIT) on monitor via HDMI to the Raspberry
 
 ## Fritzing sketch of all hardware
-![fritzing](https://github.com/notpavlov/Weather-Station/blob/main/fritzing.png?raw=true)
+![fritzing](https://github.com/97131004/Weather-Station/blob/main/fritzing.png?raw=true)
 
 ## Installation
 

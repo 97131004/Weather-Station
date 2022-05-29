@@ -7,7 +7,7 @@
 /*!
  * \brief Class that includes all outdoor data (date and time, temperature, humidity, pressure, wind speed) and string representations of those.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class outdoorEntry {
 public:

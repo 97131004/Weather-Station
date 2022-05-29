@@ -102,7 +102,7 @@ extern int OUTDOOR_LON_DEC_R;
 /*!
  * \brief Helper class with defines, global variables and commonly used functions.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class defines {
 public:

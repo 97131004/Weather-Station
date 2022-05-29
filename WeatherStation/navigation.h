@@ -2,7 +2,7 @@
 /*!
  * \brief Class that handles the navigation and button presses.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class navigation {
 private:

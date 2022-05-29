@@ -3,7 +3,7 @@
 /*!
  * \brief Class that continuously plots a number of dynamically added entries on Temperature-Time-Diagrams.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class plot {
 public:

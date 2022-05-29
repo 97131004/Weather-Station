@@ -3,7 +3,7 @@
 /*!
  * \brief Class that continuously retrieves DHT22 sensor data, fills the \link INDOOR_VEC \endlink with a new \link indoorEntry \endlink and appends it to a .csv file.
  * \copyright MIT License
- * \author notpavlov
+ * \author 97131004
  */
 class indoor {
 public:
